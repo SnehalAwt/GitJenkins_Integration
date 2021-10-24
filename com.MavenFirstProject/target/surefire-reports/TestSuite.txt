@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 69.01 s <<< FAILURE! - in TestSuite
+com.tests.DashboardPageTest.test02  Time elapsed: 0.108 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.tests.DashboardPageTest.test02(DashboardPageTest.java:28)
+
+com.tests.DashboardPageTest.test03  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.tests.DashboardPageTest.test03(DashboardPageTest.java:32)
+
