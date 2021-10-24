@@ -13,8 +13,8 @@ import com.pages.UserPage;
 
 public class DashboardPageTest {
 	WebDriver driver;
-	Loginpage lp;
-	static DashboardPage dp;
+	
+	
 	static UserPage up;
 	private Logger log = Logger.getLogger(DemoTest.class);
 	
